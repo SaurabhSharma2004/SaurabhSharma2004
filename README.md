@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SaurabhSharma2004
+- 👋 Hi, I’m @SaurabhSharma2004 Data Scientist @ Tiger Analytics
 - 👀 I’m interested in data science and web development
 - 🌱 I’m currently building E-commerce website for fun
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me at saurabh.sharma.phe20@itbhu.ac.in
-- 😄 Pronouns: sharma
+- 😄 Pronouns: saurabh
 - ⚡ Fun fact: very funny
 
 <!---
